@@ -40,14 +40,14 @@ nav ul li a {
 }
 
 .hero {
-    background-image: url('images/hero_img.jpg');
+    background-image: url('images/hero_img.png');
     background-size: cover;
     background-position: center;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #da2c2c;
+    color: #222121;
     text-align: center;
 }
 
